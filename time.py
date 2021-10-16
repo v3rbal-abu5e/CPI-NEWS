@@ -1,1 +1,1 @@
-print ("timea")
+print ("time")
